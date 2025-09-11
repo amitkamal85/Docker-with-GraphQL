@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\data\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\data\\mutation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\data\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\data\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|c:\\users\\dell\\downloads\\graphql_api\\graphql_api\\graphql_api\\graphql_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{195B0197-3713-45D0-8E88-53B8E1275AAC}|GraphQL_API\\GraphQL_API.csproj|solutionrelative:graphql_api\\graphql_api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Program.cs",
+              "RelativeDocumentMoniker": "GraphQL_API\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Program.cs",
+              "RelativeToolTip": "GraphQL_API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAwwC0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:41:01.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\appsettings.json",
+              "RelativeDocumentMoniker": "GraphQL_API\\appsettings.json",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\appsettings.json",
+              "RelativeToolTip": "GraphQL_API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-10T10:36:26.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Mutation.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Data\\Mutation.cs",
+              "RelativeDocumentMoniker": "GraphQL_API\\Data\\Mutation.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Data\\Mutation.cs",
+              "RelativeToolTip": "GraphQL_API\\Data\\Mutation.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:35:57.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Data\\Query.cs",
+              "RelativeDocumentMoniker": "GraphQL_API\\Data\\Query.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Data\\Query.cs",
+              "RelativeToolTip": "GraphQL_API\\Data\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:35:19.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "GraphQL_API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "GraphQL_API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:34:02.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GraphQL_API.csproj",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\GraphQL_API.csproj",
+              "RelativeDocumentMoniker": "GraphQL_API\\GraphQL_API.csproj",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\GraphQL_API.csproj",
+              "RelativeToolTip": "GraphQL_API\\GraphQL_API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-10T10:33:28.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "GraphQL_API\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\dell\\Downloads\\GraphQL_API\\GraphQL_API\\GraphQL_API\\Models\\TaskItem.cs",
+              "RelativeToolTip": "GraphQL_API\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T10:33:23.025Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{809f6ff3-8092-454a-8003-6d4091f9b5bb}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
